@@ -28,6 +28,12 @@ export default function App() {
       <head>
         <Meta />
         <Links />
+        <script
+          async
+          defer
+          data-website-id="ff0b7ef8-db0d-4248-8c3c-fb3b627a43d5"
+          src="https://harashojan-umami.vercel.app/umami.js"
+        ></script>
       </head>
       <body className="h-full">
         <Header />
