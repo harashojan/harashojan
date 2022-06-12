@@ -2,7 +2,7 @@
   <a href="https://github.com/harashojan/harashojan/">
     <img src="https://komarev.com/ghpvc/?username=harashojan" alt="harashojan" />
   </a>
-  <a href="http://twitter.com/harashojan">
+  <a href="http://twitter.com/shota_harano">
     <img height="20" src="https://img.shields.io/twitter/follow/harashojan?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/harashojan">
