@@ -8,7 +8,7 @@
   <a href="http://qiita.com/harashojan">
     <img height="20" src="https://qiita-badge.apiapi.app/s/harashojan/posts.svg" />
   </a>
-  <//qiita.com/harashojan">
+  <a href="http://qiita.com/harashojan">
     <img height="20" src="https://qiita-badge.apiapi.app/s/harashojan/contributions.svg" />
   </a>
 </p>
